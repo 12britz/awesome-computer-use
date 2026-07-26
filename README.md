@@ -206,6 +206,7 @@ When one agent is not enough and you need a whole crew.
 
 Prove your agent actually works (or laugh at how badly it fails).
 
+- [ClawBench](https://github.com/reacher-z/ClawBench) - Live-website benchmark for browser agents with 283 tasks and request-level evaluation. `525 ⭐`.
 - [ScreenSuite](https://github.com/huggingface/screensuite) - 13 benchmarks for GUI agents. `200 ⭐`.
 - [OSUniverse](https://github.com/agentsea/osuniverse) - 160 complex multimodal desktop tasks. `100 ⭐`.
 - [ScaleCUA](https://github.com/OpenGVLab/ScaleCUA) - Cross-platform dataset plus training framework. `100 ⭐`.
