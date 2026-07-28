@@ -207,6 +207,7 @@ When one agent is not enough and you need a whole crew.
 Prove your agent actually works (or laugh at how badly it fails).
 
 - [ScreenSuite](https://github.com/huggingface/screensuite) - 13 benchmarks for GUI agents. `200 ⭐`.
+- [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) - Live-web benchmark for browser and computer-use agents across 283 everyday tasks on 163 websites, with request interception and replayable execution evidence.
 - [OSUniverse](https://github.com/agentsea/osuniverse) - 160 complex multimodal desktop tasks. `100 ⭐`.
 - [ScaleCUA](https://github.com/OpenGVLab/ScaleCUA) - Cross-platform dataset plus training framework. `100 ⭐`.
 - [Agent VCR](https://github.com/ixchio/agent-vcr) - Time-travel debugging for AI agents. `19 ⭐`.
