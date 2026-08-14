@@ -34,6 +34,8 @@ Computer-use agents (CUAs) are AI systems that see your screen, understand what'
 
 ## Desktop Agents
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
+
 The full package. These see your screen, click things, type things, and occasionally crash things.
 
 - [OpenInterpreter](https://github.com/openinterpreter/openinterpreter) - Coding agent for open models like Kimi K3. The OG. `68.0k ⭐`.
