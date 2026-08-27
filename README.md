@@ -53,7 +53,9 @@ The full package. These see your screen, click things, type things, and occasion
 - [Agent Desktop](https://github.com/lahfir/agent-desktop) - Native Rust CLI, AX-first, no screenshots. `1.0k ⭐`.
 - [TongUI Agent](https://github.com/TongUI-agent/TongUI-agent) - VLA model learning from web tutorials. `114 ⭐`.
 - [IrisGUI](https://github.com/black-yt/IrisGUI) - Lightweight with Dynamic Focus Vision. `6 ⭐`.
-- [Oboto](https://github.com/sschepis/oboto) - Everything assistant with persistent cognitive architecture. `27 ⭐`.
+- [Oboto](https://github.com/sschepis/oboto)
+- [OpenAmer](https://github.com/openamer/openamer) - Open-source AI agent with background computer-use, A2A swarm, vector memory, plugin system, and voice. Runs on Windows without stealing focus. `0 ⭐`.
+ - Everything assistant with persistent cognitive architecture. `27 ⭐`.
 - [Computer-Use-Agent](https://github.com/nabhpatodi10/Computer-Use-Agent) - Windows CUA with OmniParser, GUI Actor, and OpenAI models. `0 ⭐`.
 - [Gofer](https://github.com/jleuth/gofer) - AI agent that lives on your computer, controllable via Telegram. `3 ⭐`.
 - [VNC-Use](https://github.com/mayflower/vnc-use) - LangGraph agent via VNC, Gemini-powered. `8 ⭐`.
