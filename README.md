@@ -261,6 +261,7 @@ Coding agents that learned to use a mouse.
 - [Mastra Code UI](https://github.com/mastra-ai/mastra-code-ui) - Desktop coding agent with multi-model. `53 ⭐`.
 - [Elves](https://github.com/mvmcode/elves) - Tauri app orchestrating Claude Code and Codex. `11 ⭐`.
 - [Pilos Agents](https://github.com/pilos-ai/agents) - Visual desktop for Claude Code, multi-agent. `39 ⭐`.
+- [Superagent](https://github.com/pungme/superagent-desktop) - macOS app giving Claude Code and Codex a real browser and an iOS Simulator, plus phone monitoring. `25 ⭐`.
 
 ## Research Papers
 
