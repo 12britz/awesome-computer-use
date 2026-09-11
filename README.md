@@ -253,6 +253,7 @@ Your browser, but smarter. And it does things for you.
 Your always-on AI buddy that lives in your system tray.
 
 - [OpenClaw](https://github.com/openclaw/openclaw) - Multi-channel AI assistant with skills. `385.9k ⭐`.
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. `1.9k ⭐`.
 
 ## IDE-Based Agents
 
