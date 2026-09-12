@@ -76,6 +76,7 @@ For when your AI only needs to wreck things on the web.
 - [LaVague](https://github.com/lavague-ai/LaVague) - Natural language web automation. `6.4k ⭐`.
 - [UI-Act](https://github.com/TobiasNorlund/UI-Act) - Grounded UI interaction. `88 ⭐`.
 - [WebMarker](https://github.com/reidbarber/webmarker) - Web annotation for agents. `61 ⭐`.
+- [AIHawk](https://github.com/feder-cr/AIHawk) - Natural-language AI browser agent, ships as an MCP server for Claude Code, Codex and Gemini CLI. `30.4k ⭐`.
 
 ## Mobile Agents
 
