@@ -108,7 +108,7 @@ The eyes of computer-use. These models see and understand what is on screen.
 
 Taking screenshots for AI so it knows what is going on.
 
-- [Screenpipe](https://github.com/screenpipe/screenpipe) - Continuous screen and audio recording, searchable AI memory. `20.9k ⭐`.
+- [Screenpipe](https://github.com/screenpipe/screenpipe) - Continuous screen and audio recording, searchable AI memory. Source-available under the [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md). `20.9k ⭐`.
 - [Peekaboo](https://github.com/openclaw/Peekaboo) - macOS screen capture plus AI analysis plus MCP server. `5.0k ⭐`.
 - [macOS Visual Agent](https://github.com/peakmojo/macos-visual-agent) - On-device screen understanding via Apple AX APIs. `6 ⭐`.
 - [CaptiOCR](https://github.com/carlosacchi/captiocr) - Real-time OCR for video conferencing. `19 ⭐`.
