@@ -63,6 +63,7 @@ The full package. These see your screen, click things, type things, and occasion
 - [Open Cowork](https://github.com/coasty-ai/open-cowork) - Coasty's full-stack computer-use coworker, multi-provider BYO LLM. `130 ⭐`.
 - [Cua](https://github.com/trycua/cua) - Containers for computer-use agents. `21.2k ⭐`.
 - [Cybergod](https://github.com/james4ever0/agi_computer_control) - AGI computer control framework. `157 ⭐`.
+- [OpenLeo](https://github.com/ancs21/openleo) - To-do board where agents do the cards, each board on its own Linux computer. `3 ⭐`.
 
 ## Browser Agents
 
