@@ -81,6 +81,7 @@ For when your AI only needs to wreck things on the web.
 
 AI that taps, swipes, and scrolls on your phone so you can doom-scroll guilt-free.
 
+- [Oh My Phone Use](https://github.com/getGate/oh-my-phone-use) - MCP-based iPhone/iPad screen control via ESP32 Bluetooth hardware and a Mac, with a separate firmware mode for phone calls. `9 ⭐`.
 - [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - Open phone agent model and framework for Android. `26.0k ⭐`.
 - [AppAgent](https://github.com/TencentQQGYLab/AppAgent) - LLM-based multimodal agent for smartphone apps. `6.8k ⭐`.
 - [Mobile-Use](https://github.com/madeagents/mobile-use) - Any app, any task. NeurIPS 2025. `179 ⭐`.
