@@ -86,6 +86,7 @@ AI that taps, swipes, and scrolls on your phone so you can doom-scroll guilt-fre
 - [Mobile-Use](https://github.com/madeagents/mobile-use) - Any app, any task. NeurIPS 2025. `179 ⭐`.
 - [Mobile-Use](https://github.com/minitap-ai/mobile-use) - Automate Android and iOS with natural language. `2.8k ⭐`.
 - [CoCo-Agent](https://github.com/xbmxb/CoCo-Agent) - Smartphone GUI automation, ACL 2024. `35 ⭐`.
+- [ESP32 iPhone Agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Any OpenAI-compatible vision model operates a stock iPhone via a $7 ESP32-S3 USB HID mouse/keyboard and AirPlay, no jailbreak. `1.7k ⭐`.
 
 ## Vision and Grounding Models
 
