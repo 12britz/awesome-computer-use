@@ -151,6 +151,7 @@ Model Context Protocol servers that give your AI desktop superpowers.
 - [Computer Control MCP](https://github.com/AB498/computer-control-mcp) - Mouse, keyboard, OCR via PyAutoGUI. `158 ⭐`.
 - [QuickDesk](https://github.com/barry-ran/QuickDesk) - AI-native remote desktop with MCP. `345 ⭐`.
 - [System MCP](https://github.com/aurafriday/system_mcp) - Full desktop automation, multi-platform. `3 ⭐`.
+- [ibara](https://github.com/MayberryDT/ibara) - MCP server for agents to use browsers and desktop apps across Omarchy computers you own. `12 ⭐`.
 - [MCP Computer Use](https://github.com/mediar-ai/MCP-server-client-computer-use-ai-sdk) - Screenpipe-based computer control. `195 ⭐`.
 - [Desktop Automation MCP](https://github.com/tanob/mcp-desktop-automation) - RobotJS-based desktop automation. `34 ⭐`.
 - [Automation MCP](https://github.com/ashwwwin/automation-mcp) - macOS automation, mouse, keyboard, screenshots. `415 ⭐`.
