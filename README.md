@@ -64,6 +64,8 @@ The full package. These see your screen, click things, type things, and occasion
 - [Cua](https://github.com/trycua/cua) - Containers for computer-use agents. `21.2k ⭐`.
 - [Cybergod](https://github.com/james4ever0/agi_computer_control) - AGI computer control framework. `157 ⭐`.
 
+- [HopBot](https://github.com/AyyazAli/hopbot) - Crew of AI agents with memory and their own screens, on your computer and servers. `3 ⭐`.
+
 ## Browser Agents
 
 For when your AI only needs to wreck things on the web.
