@@ -69,6 +69,7 @@ The full package. These see your screen, click things, type things, and occasion
 For when your AI only needs to wreck things on the web.
 
 - [Browser-Use](https://github.com/browser-use/browser-use) - SOTA browser automation, makes websites LLM-friendly. `108.8k ⭐`.
+- [easi.run](https://github.com/julianosig/easi.run) - Self-hosted Chrome via MCP/REST for AI agents, with live viewing and human takeover. `68 stars`.
 - [Skyvern](https://github.com/Skyvern-AI/skyvern) - Vision-driven web automation, no coded selectors. `22.7k ⭐`.
 - [Nanobrowser](https://github.com/nanobrowser/nanobrowser) - Chrome extension, multi-agent Planner and Navigator. `13.5k ⭐`.
 - [Fuji-Web](https://github.com/normal-computing/fuji-web) - Chrome extension with step-by-step explanations. `597 ⭐`.
