@@ -86,6 +86,7 @@ AI that taps, swipes, and scrolls on your phone so you can doom-scroll guilt-fre
 - [Mobile-Use](https://github.com/madeagents/mobile-use) - Any app, any task. NeurIPS 2025. `179 ⭐`.
 - [Mobile-Use](https://github.com/minitap-ai/mobile-use) - Automate Android and iOS with natural language. `2.8k ⭐`.
 - [CoCo-Agent](https://github.com/xbmxb/CoCo-Agent) - Smartphone GUI automation, ACL 2024. `35 ⭐`.
+- [OpenPhoneUse](https://github.com/joungminsung/OpenPhoneUse) - On-device Android agent using the accessibility service, no PC, root or ADB. `22 ⭐`.
 
 ## Vision and Grounding Models
 
