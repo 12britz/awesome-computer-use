@@ -299,3 +299,4 @@ These folks are doing great work too. Go star them.
 - [ACU](https://github.com/trycua/acu) - Awesome Agents for Computer Use. `1.7k ⭐`.
 - [steel-dev/awesome-web-agents](https://github.com/steel-dev/awesome-web-agents) - Web agents. `1.5k ⭐`.
 - [awesome-local-llm](https://github.com/rafska/awesome-local-llm) - Local LLM ecosystem. `2.5k ⭐`.
+- [pichnett/awesome-agent-phone-use](https://github.com/pichnett/awesome-agent-phone-use) - Ways for AI agents to operate real phones and mobile apps: app APIs, device control, device clouds, emulators, and hardware.
