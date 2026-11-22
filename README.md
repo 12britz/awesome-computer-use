@@ -153,6 +153,7 @@ Model Context Protocol servers that give your AI desktop superpowers.
 - [System MCP](https://github.com/aurafriday/system_mcp) - Full desktop automation, multi-platform. `3 ⭐`.
 - [MCP Computer Use](https://github.com/mediar-ai/MCP-server-client-computer-use-ai-sdk) - Screenpipe-based computer control. `195 ⭐`.
 - [Desktop Automation MCP](https://github.com/tanob/mcp-desktop-automation) - RobotJS-based desktop automation. `34 ⭐`.
+- [OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt) - Compiles web, desktop, RDP, and Citrix tasks into local MCP tools with read-back verification and signed DSSE receipts. `1.9k ⭐`.
 - [Automation MCP](https://github.com/ashwwwin/automation-mcp) - macOS automation, mouse, keyboard, screenshots. `415 ⭐`.
 - [Windows Desktop Automation MCP](https://github.com/mario-andreschak/mcp-windows-desktop-automation) - Windows desktop automation via AutoIt. `113 ⭐`.
 - [VNC MCP](https://github.com/volkan-m/vnc-mcp-server) - VNC integration for remote agent control. `1 ⭐`.
